@@ -8,7 +8,7 @@ import Gallery from "@/assets/Images/gallery.png"
 export default function Innovation() {
   return (
     <div className="mt-8" id="community">
-<Image src ={WebImage} width={1000} height={1000} className="block mx-auto"/>
+<Image src ={WebImage} width={1000} height={1000} className="block mx-auto" alt="web"/>
 
 <div className="mt-6 flex justify-center px-[45px] mx-auto items-center max-w-[1100px] w-[100%] text-black font-bold bg-[#F9FE73]  py-6">
 <h1 className="">We Are on a Mission to Change the Way People Invest.</h1>
@@ -47,7 +47,7 @@ export default function Innovation() {
     <p className="text-[rgb(156,163,162)] mt-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 </div>
 
-<Image width={160} src={Arrow} height={60} className="w-[110px] h-[110px]"/>
+<Image width={160} src={Arrow} height={60} className="w-[110px] h-[110px]" alt="arrow"/>
 
 
    </div>

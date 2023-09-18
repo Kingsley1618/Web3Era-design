@@ -11,7 +11,7 @@ export default function Update() {
     
     <div className="grid md:grid-cols-3 mt-[100px] grid-cols-1 gap-y-6 gap-x-6 md:max-w-[770px] max-w-[380px] mx-auto w-[100%]">
 <div className="rounded-md bg-[rgb(5,10,54)] px-3 pt-3 pb-8">
-<Image src={Coin} className='' width={390} height={80}/>
+<Image src={Coin} className='' width={390} height={80} alt="coin"/>
 <h1 className="font-bold text-white mt-4">About</h1>
 
 <div className='flex gap-x-3 mt-2'>
@@ -26,7 +26,7 @@ export default function Update() {
 </div>
 
 <div className="rounded-md bg-[rgb(5,10,54)] px-3 pt-3 pb-8">
-<Image src={Coin} className='' width={390} height={80}/>
+<Image src={Coin} className='' width={390} height={80} alt="coin"/>
 <h1 className="font-bold text-white mt-4">Launch</h1>
 
 <div className='flex gap-x-3 mt-2'>
@@ -42,7 +42,7 @@ export default function Update() {
 
 
 <div className="rounded-md bg-[rgb(5,10,54)] px-3 pt-3 pb-8">
-<Image src={Coin} className='' width={390} height={80}/>
+<Image src={Coin} className='' width={390} height={80} alt="coin"/>
 <h1 className="font-bold text-white mt-4">Web3</h1>
 
 <div className='flex gap-x-3 mt-2'>
