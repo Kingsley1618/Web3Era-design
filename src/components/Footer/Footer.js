@@ -28,7 +28,7 @@ export default function Footer() {
 <ul className="flex flex-col gap-y-8 text-white">
 <h1 className="text-white font-bold">CONTACT</h1>
 <Link href="/"><li className="flex gap-x-2"><AiFillHome /> <h1>Home</h1></li></Link>
-<Link href="#"><li className="flex gap-x-2"><BiLogoGmail /> <h1>Okeze Kingsley@gmail.com</h1></li></Link>
+<Link href="#"><li className="flex gap-x-2"><BiLogoGmail /> <h1>OkezeKingsley18@gmail.com</h1></li></Link>
 <Link href="#"><li className="flex gap-x-2"><BiSolidPhoneCall /> <h1>+2349036646336</h1></li></Link>
 
 </ul>
