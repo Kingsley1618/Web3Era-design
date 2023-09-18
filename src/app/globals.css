@@ -16,12 +16,16 @@
   }
 }
 
+
+:root {
+  --background : rgb(3,6,34);
+  --box-lineargradient : linear-gradient(325deg,#050a36 88%,#f9fe73 0);
+
+  
+}
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: var(--background);
+  padding: 22px;
+  margin: 0px;
+  box-sizing: border-box;
 }

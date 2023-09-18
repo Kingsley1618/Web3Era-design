@@ -1,0 +1,18 @@
+.text {
+    font-size: calc(1.2rem + 1.2vw);
+    margin-top: 90px; 
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+.header {
+    font-size: calc(1.1rem + 1.3vw);
+    font-weight: bold;
+    color:white;
+}
+
+.back {
+    background-image: var(--box-lineargradient);
+    padding: 26px 10px 26px 40px;
+  
+}
