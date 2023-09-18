@@ -44,7 +44,7 @@ export default function Innovation() {
    <div className="flex mt-[120px] justify-between max-w-[680px] gap-x-[140px] mx-auto w-[100%]">
 <div className="">
     <h1 className={styles.header}>Web3 services for every app</h1>
-    <p className="text-[rgb(156,163,162)] mt-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p className="text-[rgb(156,163,162)] mt-4">Some quick example text to build on the card title and make up the bulk of the card&apos;s content.</p>
 </div>
 
 <Image width={160} src={Arrow} height={60} className="w-[110px] h-[110px]" alt="arrow"/>
@@ -61,7 +61,7 @@ export default function Innovation() {
 <h1 className='font-bold text-white text-[1.2rem]'>Web3 identities</h1>
 <Image src={Star} alt="star" width={25} height={25} className='w-[25px] h-[25px]'/>
 </div>
-<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card&apos;s content.</p>
 </div>
 
 <div className={styles.back}>
@@ -69,7 +69,7 @@ export default function Innovation() {
 <h1 className='font-bold text-white text-[1.2rem]'>Web3 storage</h1>
 <Image src={Star} alt="star" width={25} height={25} className='w-[25px] h-[25px]'/>
 </div>
-<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card&apos;s content.</p>
 </div>
 
 <div className={styles.back}>
@@ -77,7 +77,7 @@ export default function Innovation() {
 <h1 className='font-bold text-white text-[1.2rem]'>Web3 hosting</h1>
 <Image src={Star} alt="star" width={25} height={25} className='w-[25px] h-[25px]'/>
 </div>
-<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card&apos;s content.</p>
 </div>
 
 <div className={styles.back}>
@@ -85,7 +85,7 @@ export default function Innovation() {
 <h1 className='font-bold text-white text-[1.2rem]'>Web3 identities</h1>
 <Image src={Star} alt="star" width={25} height={25} className='w-[25px] h-[25px]'/>
 </div>
-<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<p className="text-[rgb(156,163,162)] mt-3">Some quick example text to build on the card title and make up the bulk of the card&apos;s content.</p>
 </div>
 
    </div>
