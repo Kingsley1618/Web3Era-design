@@ -29,3 +29,16 @@ body {
   margin: 0px;
   box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
+
+*::-webkit-scrollbar{
+  width: 10px;
+  
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgb(214,36,145);
+  border-radius: 100px;
+}

@@ -1,0 +1,23 @@
+.header {
+    font-size: calc(1.1rem + 1.3vw);
+font-weight: 900;
+text-align: center;
+
+color:rgb(243,244,246)
+}
+
+.input:hover {
+    transform: scale(1.05);
+    transition: .2s linear all;
+
+}
+.input:focus {
+    transform: scale(1.05);
+border:2px solid rgb(120,199,203);
+
+}
+
+.input {
+    padding: 10px;
+    background-color: transparent;
+}

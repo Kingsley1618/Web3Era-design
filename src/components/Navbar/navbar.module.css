@@ -1,0 +1,34 @@
+.navbarclose{
+    width: 100%;
+    min-height: 0vh;
+    height: 100%;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left:-100%;
+    transition: all .4s linear;
+    border-radius: 0px 0px 50% 0px;
+}
+
+.navbaropen{
+    width: 100%;
+    transition: all .4s linear;
+    min-height: 100vh;
+    height: 100%;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    padding:30px;
+    left:0;
+}
+
+.link {
+    padding:13px;
+    font-size: 25px;
+}
+.link:hover {
+    background-color: black;
+    color:white;
+    border-radius: 30px;
+
+}

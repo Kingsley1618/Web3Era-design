@@ -7,7 +7,7 @@ import Arrow from "@/assets/Images/arrow.png"
 import Gallery from "@/assets/Images/gallery.png"
 export default function Innovation() {
   return (
-    <div className="mt-8">
+    <div className="mt-8" id="community">
 <Image src ={WebImage} width={1000} height={1000} className="block mx-auto"/>
 
 <div className="mt-6 flex justify-center px-[45px] mx-auto items-center max-w-[1100px] w-[100%] text-black font-bold bg-[#F9FE73]  py-6">

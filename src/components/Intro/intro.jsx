@@ -2,7 +2,7 @@ import React from 'react'
 import styles from "./intro.module.css"
 export default function intro() {
   return (
-    <div className="flex flex-col mx-auto max-w-[1000px] mt-[100px]">
+    <div className="flex flex-col mx-auto max-w-[1000px] mt-[100px]" id="build">
 <div><div className={styles.textfirst}><span className="text-white">Build</span> <span className="text-[rgb(249,254,115)]">Web3</span> 🌍</div></div>
 
 <div><div className={`text-[rgb(119,218,231)] mt-[-40px] ${styles.textfirst}`}>products <span className="text-white">easily</span></div></div>
